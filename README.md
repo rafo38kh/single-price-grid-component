@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-with-scss-bem-css-grid-and-css-flexbox-W9-EYNNMw](https://www.frontendmentor.io/solutions/single-price-grid-component-with-scss-bem-css-grid-and-css-flexbox-W9-EYNNMw)
 - Live Site URL: [https://rafo38kh.github.io/single-price-grid-component/](https://rafo38kh.github.io/single-price-grid-component/)
 
 ## My process
@@ -37,6 +37,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - SCSS custom properties
 - CSS Flexbox
+- CSS Grid
 - Mobile-first workflow
 
 ## Author
