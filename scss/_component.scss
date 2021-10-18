@@ -82,12 +82,12 @@
       padding: 1.4rem;
       width: 100%;
       font-size: 1.6rem;
-      cursor: pointer;
       box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 15px 0px;
+      transition: all 0.3s;
 
       &:hover {
+        cursor: pointer;
         opacity: 0.8;
-        transition: all 0.3s;
       }
     }
   }

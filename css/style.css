@@ -94,11 +94,11 @@ body {
       padding: 1.4rem;
       width: 100%;
       font-size: 1.6rem;
-      cursor: pointer;
-      box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 15px 0px; }
+      box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 15px 0px;
+      transition: all 0.3s; }
       .card__dark-button:hover {
-        opacity: 0.8;
-        transition: all 0.3s; }
+        cursor: pointer;
+        opacity: 0.8; }
   .card__light {
     padding: 2.5rem 3rem 2rem 3rem;
     background-color: #4bbebc; }
