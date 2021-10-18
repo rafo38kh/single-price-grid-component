@@ -121,5 +121,8 @@ body {
   text-align: center;
   margin: 2rem 0 1rem 0; }
   .attribution__link:link, .attribution__link:visited {
+    color: #2ab2af;
     text-transform: uppercase;
     transition: all 0.2s; }
+  .attribution__link:hover, .attribution__link:active {
+    color: #1f4d4c; }

@@ -124,13 +124,13 @@
 
   &__link:link,
   &__link:visited {
-    // color: $color-primary;
+    color: $color-primary;
     text-transform: uppercase;
     transition: all 0.2s;
   }
 
   &__link:hover,
   &__link:active {
-    // color: $color-primary--light;
+    color: $color-footer;
   }
 }
