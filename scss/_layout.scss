@@ -1,0 +1,7 @@
+.container {
+  max-width: clamp(400px, 60vw, 630px);
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
